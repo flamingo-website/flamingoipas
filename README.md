@@ -6,6 +6,7 @@ Welcome to the flamingo IPA Repository! This is where all the IPAs are temporall
 
  - Coolstar for: Electra
  - pwn20wnd for: Unc0ver
+ - Riley Testut for: GBA4IOS
 
 # Credits
 Created by: Meowcat285 ([Twitter](https://twitter.com/meowcat285))
